@@ -1,0 +1,16 @@
+{
+    "name": "yangkai/request",
+    "description": "yangkai request pack",
+    "require": {
+        "php": "^7.1"
+    },
+    "authors": [
+        {
+            "name": "yangkai",
+            "email": "444655291@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"yangkai\\request\\": ""}
+    }
+}
